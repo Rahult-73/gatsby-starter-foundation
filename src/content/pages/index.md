@@ -9,3 +9,17 @@ cta:
   ctaLink: /about
 ---
 Dot Net Web Developer with experience of six months
+
+
+
+# Languages
+
+C#,PHP,Python,Html,CSS.
+
+
+
+# Systems
+
+Windows
+
+Linux
